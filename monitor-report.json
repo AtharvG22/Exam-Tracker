@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gate27",
+    "name": "GATE 2027 \u2014 Computer Science",
+    "error": "<urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010)>"
+  },
+  {
+    "id": "cmat27",
+    "name": "CMAT 2027",
+    "error": "HTTP Error 404: The requested content does not exist."
+  },
+  {
+    "id": "cds127",
+    "name": "CDS I 2027",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "cds227",
+    "name": "CDS II 2027",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "capf27",
+    "name": "UPSC CAPF (AC) 2027",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "cse27",
+    "name": "UPSC Civil Services Prelims 2027",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "ese27",
+    "name": "UPSC Engineering Services Prelims 2027",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "isi27",
+    "name": "ISI Admission Test 2027",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
+  },
+  {
+    "id": "drdo27",
+    "name": "DRDO Scientist B",
+    "error": "<urlopen error [Errno 111] Connection refused>"
+  },
+  {
+    "id": "jam27",
+    "name": "IIT JAM 2027",
+    "error": "<urlopen error [Errno -2] Name or service not known>"
+  }
+]
