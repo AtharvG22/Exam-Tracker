@@ -1,0 +1,43 @@
+name: Monitor Official Exam Sources
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC = 11:30 AM IST
+    - cron: "0 6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run exam monitor
+        run: |
+          python monitor.py
+
+      - name: Commit updated exam data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add exams.json monitor-report.json
+
+          git diff --cached --quiet || git commit -m "Update exam data"
+
+          git push
