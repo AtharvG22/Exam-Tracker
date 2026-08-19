@@ -35,16 +35,6 @@
     "error": "<urlopen error timed out>"
   },
   {
-    "id": "afcat27",
-    "name": "AFCAT 1 2027",
-    "error": "HTTP Error 500: 500 Service unavailable (with message)"
-  },
-  {
-    "id": "afcat27b",
-    "name": "AFCAT 2 2027",
-    "error": "HTTP Error 500: 500 Service unavailable (with message)"
-  },
-  {
     "id": "isi27",
     "name": "ISI Admission Test 2027",
     "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
