@@ -52,11 +52,21 @@
   {
     "id": "drdo27",
     "name": "DRDO Scientist B",
-    "error": "<urlopen error [Errno 111] Connection refused>"
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "ugcnet27",
+    "name": "UGC-NET \u2014 Computer Science & Applications",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
   },
   {
     "id": "jam27",
     "name": "IIT JAM 2027",
     "error": "<urlopen error [Errno -2] Name or service not known>"
+  },
+  {
+    "id": "sscsa27",
+    "name": "SSC Scientific Assistant (IMD)",
+    "error": "<urlopen error timed out>"
   }
 ]
