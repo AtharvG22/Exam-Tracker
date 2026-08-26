@@ -52,7 +52,7 @@
   {
     "id": "drdo27",
     "name": "DRDO Scientist B",
-    "error": "<urlopen error timed out>"
+    "error": "<urlopen error [Errno 111] Connection refused>"
   },
   {
     "id": "ugcnet27",
@@ -63,10 +63,5 @@
     "id": "jam27",
     "name": "IIT JAM 2027",
     "error": "<urlopen error [Errno -2] Name or service not known>"
-  },
-  {
-    "id": "sscsa27",
-    "name": "SSC Scientific Assistant (IMD)",
-    "error": "<urlopen error timed out>"
   }
 ]
