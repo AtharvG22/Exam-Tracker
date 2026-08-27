@@ -55,11 +55,6 @@
     "error": "<urlopen error [Errno 111] Connection refused>"
   },
   {
-    "id": "ugcnet27",
-    "name": "UGC-NET \u2014 Computer Science & Applications",
-    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-  },
-  {
     "id": "jam27",
     "name": "IIT JAM 2027",
     "error": "<urlopen error [Errno -2] Name or service not known>"
