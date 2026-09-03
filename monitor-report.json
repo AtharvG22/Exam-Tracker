@@ -50,6 +50,11 @@
     "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
   },
   {
+    "id": "nielit27",
+    "name": "NIELIT Scientist / Scientific Assistant",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
     "id": "drdo27",
     "name": "DRDO Scientist B",
     "error": "<urlopen error [Errno 111] Connection refused>"
