@@ -53,10 +53,5 @@
     "id": "jam27",
     "name": "IIT JAM 2027",
     "error": "<urlopen error [Errno -2] Name or service not known>"
-  },
-  {
-    "id": "sscsa27",
-    "name": "SSC Scientific Assistant (IMD)",
-    "error": "Remote end closed connection without response"
   }
 ]
