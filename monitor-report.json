@@ -47,7 +47,7 @@
   {
     "id": "drdo27",
     "name": "DRDO Scientist B",
-    "error": "<urlopen error [Errno 111] Connection refused>"
+    "error": "<urlopen error timed out>"
   },
   {
     "id": "jam27",
