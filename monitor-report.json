@@ -42,7 +42,7 @@
   {
     "id": "nielit27",
     "name": "NIELIT Scientist / Scientific Assistant",
-    "error": "<urlopen error timed out>"
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
   },
   {
     "id": "drdo27",
@@ -53,10 +53,5 @@
     "id": "jam27",
     "name": "IIT JAM 2027",
     "error": "<urlopen error [Errno -2] Name or service not known>"
-  },
-  {
-    "id": "sscsa27",
-    "name": "SSC Scientific Assistant (IMD)",
-    "error": "<urlopen error timed out>"
   }
 ]
