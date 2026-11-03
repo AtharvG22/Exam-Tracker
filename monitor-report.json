@@ -52,6 +52,6 @@
   {
     "id": "jam27",
     "name": "IIT JAM 2027",
-    "error": "<urlopen error [Errno -2] Name or service not known>"
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
   }
 ]
