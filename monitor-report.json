@@ -30,16 +30,6 @@
     "error": "<urlopen error timed out>"
   },
   {
-    "id": "afcat27",
-    "name": "AFCAT 1 2027",
-    "error": "<urlopen error timed out>"
-  },
-  {
-    "id": "afcat27b",
-    "name": "AFCAT 2 2027",
-    "error": "<urlopen error timed out>"
-  },
-  {
     "id": "nielit27",
     "name": "NIELIT Scientist / Scientific Assistant",
     "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
