@@ -1,10 +1,5 @@
 [
   {
-    "id": "gate27",
-    "name": "GATE 2027 \u2014 Computer Science",
-    "error": "HTTP Error 503: Service Unavailable"
-  },
-  {
     "id": "cmat27",
     "name": "CMAT 2027",
     "error": "HTTP Error 404: The requested content does not exist."
@@ -37,7 +32,7 @@
   {
     "id": "cmi27",
     "name": "CMI Entrance Examination 2027",
-    "error": "<urlopen error timed out>"
+    "error": "<urlopen error [Errno 111] Connection refused>"
   },
   {
     "id": "nielit27",
