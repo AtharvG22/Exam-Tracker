@@ -7,27 +7,27 @@
   {
     "id": "cds127",
     "name": "CDS I 2027",
-    "error": "<urlopen error timed out>"
+    "error": "HTTP Error 404: Not Found"
   },
   {
     "id": "cds227",
     "name": "CDS II 2027",
-    "error": "<urlopen error timed out>"
+    "error": "HTTP Error 404: Not Found"
   },
   {
     "id": "capf27",
     "name": "UPSC CAPF (AC) 2027",
-    "error": "<urlopen error timed out>"
+    "error": "HTTP Error 404: Not Found"
   },
   {
     "id": "cse27",
     "name": "UPSC Civil Services Prelims 2027",
-    "error": "<urlopen error timed out>"
+    "error": "HTTP Error 404: Not Found"
   },
   {
     "id": "ese27",
     "name": "UPSC Engineering Services Prelims 2027",
-    "error": "<urlopen error timed out>"
+    "error": "HTTP Error 404: Not Found"
   },
   {
     "id": "nielit27",
