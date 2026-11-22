@@ -27,17 +27,7 @@
   {
     "id": "ese27",
     "name": "UPSC Engineering Services Prelims 2027",
-    "error": "<urlopen error [Errno 111] Connection refused>"
-  },
-  {
-    "id": "afcat27",
-    "name": "AFCAT 1 2027",
-    "error": "<urlopen error timed out>"
-  },
-  {
-    "id": "afcat27b",
-    "name": "AFCAT 2 2027",
-    "error": "<urlopen error timed out>"
+    "error": "HTTP Error 404: Not Found"
   },
   {
     "id": "nielit27",
